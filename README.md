@@ -1,2 +1,3 @@
-# bacoradas
-Top tier cringe from the Portuguese web in the year 2000.
+# Bacoradas
+
+Reviving this archived website I've made and maintained with a couple of friends between 2000 and 2003.
