@@ -1,0 +1,357 @@
+
+Session Start: Sat Dec 09 23:36:00 2000
+[23:36] <MORSMORDRE> olá
+[23:36] <Porta_Chaves> oi
+[23:36] <MORSMORDRE> soube q estavas metido nesse neg
+[23:37] <MORSMORDRE> negócio das homepages
+[23:37] <Porta_Chaves> sim
+[23:37] <Porta_Chaves> tou
+[23:37] <Porta_Chaves> diz...
+[23:38] <MORSMORDRE> por quanto é que fica uma com fotografia à direita, umas letras no meio e música de fundo?
+[23:38] <Porta_Chaves> olha
+[23:38] <Porta_Chaves> musica não dá
+[23:38] <MORSMORDRE> não?
+[23:38] <Porta_Chaves> sem misica fika por
+[23:38] <Porta_Chaves> 3 4 mokas
+[23:38] <MORSMORDRE> ei
+[23:38] <MORSMORDRE> tá barato
+[23:39] <MORSMORDRE> olha, e é compatível com mozilla 4.0?
+[23:39] <Porta_Chaves> sim,
+[23:39] <Porta_Chaves> é gaijpo
+[23:40] <MORSMORDRE> e com linux 1.23 alpha com suporte madwhoresX?
+[23:41] <Porta_Chaves> pá
+[23:41] <Porta_Chaves> não
+[23:41] <Porta_Chaves> sei
+[23:41] <Porta_Chaves> eu posso
+[23:41] <Porta_Chaves> por texto
+[23:41] <Porta_Chaves> e imagens
+[23:41] <Porta_Chaves> links
+[23:42] <Porta_Chaves> mas nada
+[23:42] <MORSMORDRE> olha
+[23:42] <MORSMORDRE> diz-me uma coisa
+[23:43] <MORSMORDRE> tu és hacker?
+[23:44] <Porta_Chaves> isso
+[23:44] <Porta_Chaves> perghunta-se
+[23:44] <Porta_Chaves> pá
+[23:44] <Porta_Chaves> arrisco-me
+[23:44] <Porta_Chaves> se responder
+[23:44] <MORSMORDRE> a sério
+[23:44] <MORSMORDRE> sempre quis conhecer um
+[23:44] <Porta_Chaves> ai
+[23:44] <Porta_Chaves> é
+[23:44] <Porta_Chaves> mas
+[23:44] <Porta_Chaves> isso não é assim
+[23:44] <Porta_Chaves> tens que ler muito
+[23:45] <Porta_Chaves> pesquisar muito
+[23:45] <Porta_Chaves> etc
+[23:45] <MORSMORDRE> mas tu és um deles?
+[23:45] <Porta_Chaves> isso pergunta-se?!
+[23:45] <MORSMORDRE> a sério, diz-me só a mim!
+[23:46] <Porta_Chaves> não
+-
+[23:46] Porta_Chaves is ----------@127.244.214.16 *  .........--------............
+[23:46] Porta_Chaves is a registered and identified nick
+[23:46] Porta_Chaves on #pthelp #Playstation2 #playstation 
+[23:46] Porta_Chaves using ip6.ptnet.org Servidor de IRC da Novis Telecom
+[23:46] Porta_chaves End of /WHOIS list.
+-
+[23:46] <Porta_Chaves> podes
+[23:46] <Porta_Chaves> ser da
+[23:46] <Porta_Chaves> ptnet
+[23:46] <Porta_Chaves> ou sim
+[23:46] <MORSMORDRE> hacker da ptnet?
+[23:46] <MORSMORDRE> uau!
+[23:46] <Porta_Chaves> não
+[23:46] <Porta_Chaves> poeds ser
+[23:46] <Porta_Chaves> ~´e um ircop
+[23:46] <Porta_Chaves> ou asim
+[23:47] <MORSMORDRE> o que é isso?
+[23:47] <Porta_Chaves> ircop
+[23:48] <MORSMORDRE> #guimaraes $chr(2)
+[23:49] <MORSMORDRE> alias kool /msg #guimaraes $chr(2)
+[23:49] * Added 'kool' alias
+[23:49] * Replaced 'kool' alias
+[23:49] * Replaced 'kool' alias
+[23:50] * Replaced 'kool' alias
+[23:50] <MORSMORDRE> olha
+[23:50] <Porta_Chaves> tou
+[23:50] <MORSMORDRE> descobri uma coisa
+[23:50] <Porta_Chaves> banido
+[23:50] <Porta_Chaves> diz
+[23:51] <MORSMORDRE> podias
+[23:51] <MORSMORDRE> tentar uma coisa
+[23:51] <Porta_Chaves> diz
+[23:51] <MORSMORDRE> para ver s funciona como aqui
+[23:51] <MORSMORDRE> é assim: /alias kool /msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[23:51] <MORSMORDRE> consegui op à pala disso
+[23:52] <MORSMORDRE> e dp faz /kool
+[23:52] <MORSMORDRE> consegue explorar um bug
+[23:52] <MORSMORDRE> mas tens q tar no canal
+[23:52] <Porta_Chaves> sim
+[23:53] <Porta_Chaves> e que escreves na msg
+[23:53] <MORSMORDRE> é um conjunto de códigos 
+[23:53] <MORSMORDRE> q exploram um bug
+[23:53] <Porta_Chaves> sim
+[23:53] <Porta_Chaves> e é só ecrever isto  /alias kool /msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[23:53] <Porta_Chaves> e dá noutro canal
+[23:53] <MORSMORDRE> mas tens q tar no canal
+[23:54] <Porta_Chaves> sim
+[23:54] <MORSMORDRE> esse soh funciona no guimaraes
+[23:54] <Porta_Chaves> mas não dá
+[23:54] <Porta_Chaves> anda ao
+[23:54] <Porta_Chaves> #com
+[23:54] <Porta_Chaves> e fáz isso
+[23:54] <MORSMORDRE> jah t disse q soh funciona no #guimaraes
+[23:54] <Porta_Chaves> mas 
+[23:54] <Porta_Chaves> não tás com op
+[23:54] <MORSMORDRE> keres ver?
+[23:54] <Porta_Chaves> no #guimaraes
+[23:54] <Porta_Chaves> sim
+[23:54] <MORSMORDRE> vou fazer
+[23:55] <Porta_Chaves> olha
+[23:55] <Porta_Chaves> tens op tira-me o ban
+[23:55] <Porta_Chaves> do #guimaraes
+[23:55] <Porta_Chaves> s.f.f.
+[23:55] <MORSMORDRE> pera
+[23:55] <Porta_Chaves> ok
+[23:55] <MORSMORDRE> demora uns segundos
+[23:56] <Porta_Chaves> atã
+[23:56] <Porta_Chaves> já tá
+[23:56] <MORSMORDRE> entra
+[23:56] <MORSMORDRE> e tenta
+[23:57] <MORSMORDRE> faz o q disse
+[23:57] <MORSMORDRE> e d seguida: /kool
+[23:57] <Porta_Chaves> atão
+[23:57] <MORSMORDRE> escreve o q t disse
+[23:58] <MORSMORDRE> bye
+Session Close: Sat Dec 09 23:58:22 2000
+
+
+Session Start: Sat Dec 09 23:58:25 2000
+[23:58] Session Ident: Porta_Chaves (----------@127.244.214.16)
+[23:58] <Porta_Chaves> ´mas
+[23:58] <Porta_Chaves> viste
+[23:58] <Porta_Chaves> o que disse
+[23:58] <MORSMORDRE> foi um erro
+[23:58] <MORSMORDRE> os ircops detectaram
+[23:58] <Porta_Chaves> meu
+[23:59] <Porta_Chaves> eplica
+[23:59] <Porta_Chaves> ~lá
+[23:59] <Porta_Chaves> o que tenho de fazre
+[23:59] <Porta_Chaves> ~para ter op
+[23:59] <MORSMORDRE> tenta
+[23:59] -> Server: quit $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+
+Session Time: Sun Dec 10 00:00:00 2000
+
+[00:00] *** KamikazePoet is on IRC
+[00:00] <Porta_Chaves> escrevo o quê?
+[00:00] -ChanServ- Este canal esta' registado
+[00:00] -netc3.PTnet.org- *** Don't abuse from the /names command, that can cause lag to everyone !
+[00:00] -netc3.PTnet.org- *** Don't abuse from the /names command, that can cause lag to everyone !
+[00:00] <Porta_Chaves> atão?
+[00:00] -NickServ- Password incorrecta.
+[00:00] <MORSMORDRE> tenta /quote quit linux110 - casdsa - iamgay - iassume - hsadg£ 
+[00:01] <Guest715775> ok?
+[00:01] <Guest715775> pera
+[00:01] <Guest715775> deskulpa
+[00:01] -NickServ- Nick registado e protegido! Se e' seu escreva /NickServ IDENTIFY password. Tem cerca de um minuto para o fazer ou mudar de nick
+[00:01] - Auto Identifier - Sendind nick password to Nickserv...
+[00:01] <MORSMORDRE> enganei-me
+[00:01] -NickServ- Password aceite
+[00:01] -NickServ- Password incorrecta.
+[00:01] <Porta_Chaves> atão
+[00:01] <Porta_Chaves> o ke escrevo
+[00:02] <MORSMORDRE> tenta /alias kool /quote quit $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:02] <MORSMORDRE> e faz d novo /kool
+[00:03] <MORSMORDRE> q merda
+[00:03] <MORSMORDRE> ñ worka
+[00:03] <Porta_Chaves> olha
+[00:03] <Porta_Chaves> olha
+[00:03] <Porta_Chaves> pq não dá
+[00:03] <MORSMORDRE> faz /memoserv send Rob_ filho da p*ta
+[00:03] <MORSMORDRE> ele é q tem kulpa
+[00:03] <MORSMORDRE> tem estado a bloquear os comandps
+[00:04] <MORSMORDRE> tenta
+[00:04] <Porta_Chaves> o quê?
+[00:04] <Porta_Chaves> diz
+[00:04] <Porta_Chaves> de novo
+[00:04] <Porta_Chaves> a mensagem
+[00:04] <MORSMORDRE> faz /memoserv send Rob_ filho da p*ta
+[00:04] <Porta_Chaves> pa
+[00:04] <Porta_Chaves> kê
+[00:04] <MORSMORDRE> esse gajo tem andado a bloquear os teu comandos
+[00:04] <Porta_Chaves> mando ujm memo
+[00:04] <MORSMORDRE> calma
+[00:04] <MORSMORDRE> faz antes
+[00:05] <Porta_Chaves> sim
+[00:05] <MORSMORDRE> faz /quote memoserv send Rob_ 54bbn33 stupid whore!
+[00:05] <Porta_Chaves> meu
+[00:05] <Porta_Chaves> mas 
+[00:05] <Porta_Chaves> isso mandam um memo
+[00:05] <MORSMORDRE> nãp
+[00:05] <MORSMORDRE> o /quote à frente
+[00:05] <MORSMORDRE> faz com que o gajo caia
+[00:06] <MORSMORDRE> e pare de bloquear os teus comandos
+[00:06] <Porta_Chaves> MemoServ- Memo enviado a Rob_.
+[00:06] <Porta_Chaves> mas ele não tá cá
+[00:06] Rob_ No such nick/channel
+[00:06] Rob_ End of /WHOIS list.
+-
+[00:06] <MORSMORDRE> está invisível
+[00:07] -> -kamikazepoet- pah, tahs vingado!
+[00:07] <MORSMORDRE> olha
+[00:07] <MORSMORDRE> mas podes
+[00:07] <MORSMORDRE> tentar
+[00:07] <MORSMORDRE> sempre uma última via
+[00:07] <Porta_Chaves> olha
+[00:07] <Porta_Chaves> quero ter op no #guimaraes
+[00:07] <Porta_Chaves> sim
+[00:07] <MORSMORDRE> tenta /alias kool /quote notice $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:08] <Porta_Chaves> olha´~
+[00:08] <MORSMORDRE> tenta /alias kool /quote notice kamikazepoet $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:08] <Porta_Chaves> tentq tu
+[00:08] <Porta_Chaves> tenta tu
+[00:08] <MORSMORDRE> eu?
+[00:08] <Porta_Chaves> sim
+[00:08] <MORSMORDRE> mas eu jah t mostrei como s quiser tenho op
+[00:08] <Porta_Chaves> ok
+[00:08] <MORSMORDRE> os ops é q começam a tripar
+[00:08] <Porta_Chaves> fáz
+[00:08] <Porta_Chaves>  e dá-me op
+[00:09] <MORSMORDRE> eu?
+[00:09] <MORSMORDRE> ñ posso
+[00:09] <MORSMORDRE> eles kickam-me
+[00:09] <MORSMORDRE> tens q conseguir por ti mesmo
+[00:09] <Porta_Chaves> õlha
+[00:09] <MORSMORDRE> dix
+[00:09] <Porta_Chaves> mas não dá
+[00:09] <Porta_Chaves> mas não dá
+[00:09] <MORSMORDRE> tenta
+[00:09] <MORSMORDRE> tenta /alias kool /quote notice kamikazepoet $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:09] <MORSMORDRE> e faz /kool
+[00:10] <MORSMORDRE> isso vai roubar ao kamikazepoet o op
+[00:10] *** swing3r has left IRC
+[00:10] *** KamikazePoet is on IRC
+[00:10] <Porta_Chaves> mas esse
+[00:10] <Porta_Chaves> kjá foi embora
+[00:10] <Porta_Chaves> kjá foi embora
+[00:10] <MORSMORDRE> então tenta
+[00:10] <MORSMORDRE> tenta /alias kool /quote notice flashs $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:10] <MORSMORDRE> e dp /kool
+[00:11] <Porta_Chaves> mas
+[00:11] <Porta_Chaves> se puzer
+[00:11] <Porta_Chaves> depois
+[00:11] <Porta_Chaves> aparec
+[00:12] <MORSMORDRE> tenta
+[00:12] <MORSMORDRE> tenta /alias kool /quote notice flashs $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:12] <MORSMORDRE> e depois /kool
+[00:13] <MORSMORDRE> jah tah?
+[00:13] <Porta_Chaves> já
+[00:13] <Porta_Chaves> fiz
+[00:13] <Porta_Chaves> mas no tenho op
+[00:13] <MORSMORDRE> ok
+[00:13] <MORSMORDRE> ñ sei
+[00:13] <Porta_Chaves> como
+[00:13] <Porta_Chaves> tu fizeste?
+[00:13] <Porta_Chaves> tu fizeste?
+[00:13] <MORSMORDRE> ká para mim o rob_t ah s novo em acção
+[00:13] <MORSMORDRE> faz d novo
+[00:13] <Porta_Chaves> e depois
+[00:14] <MORSMORDRE> faz n d vezes
+[00:14] <Porta_Chaves> fazer /kool
+[00:14] <MORSMORDRE> faz muitas vezes /kool
+[00:14] <MORSMORDRE> ou até /timer1 100 1 /kool
+[00:15] <MORSMORDRE> ok?
+[00:15] <MORSMORDRE> mas!
+[00:15] <MORSMORDRE> pera!
+[00:15] <MORSMORDRE> deskobri o erro!
+[00:16] <MORSMORDRE> tenta /alias kool /timer1 100 1 /quote msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:16] <MORSMORDRE> agora sim
+[00:16] <MORSMORDRE> vai funcionar
+[00:16] <Porta_Chaves> sim
+[00:16] <MORSMORDRE> e faz /kool
+[00:17] <Porta_Chaves> qual é
+[00:17] <MORSMORDRE> o q?
+[00:17] <MORSMORDRE> tenta /alias kool /timer1 100 1 /quote msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:17] <MORSMORDRE> e depois faz /kool
+[00:18] <MORSMORDRE> ok?
+[00:18] <MORSMORDRE> certo?
+[00:19] <MORSMORDRE> tá aí?
+[00:19] <MORSMORDRE> tás aí?
+[00:19] <MORSMORDRE> tás aí?
+[00:19] <MORSMORDRE> tás aí?
+[00:19] <MORSMORDRE> hey!
+[00:19] <MORSMORDRE> ñ keres ajuda?
+[00:20] <MORSMORDRE> ok
+[00:20] <MORSMORDRE> entendo isso como um não
+[00:20] <MORSMORDRE> xau
+Session Close: Sun Dec 10 00:20:17 2000
+
+
+Session Start: Sun Dec 10 00:22:53 2000
+[00:22] Session Ident: Porta_Chaves (----------@127.183.235.98)
+[00:22] <Porta_Chaves> oi
+[00:22] <MORSMORDRE> olá
+[00:23] <Porta_Chaves> olha
+[00:23] <MORSMORDRE> diz
+[00:23] <Porta_Chaves> ~podes-me ajudar?
+[00:23] <Porta_Chaves> a ter op no #guimarãwes
+[00:23] <Porta_Chaves> a ter op no #guimarães
+[00:23] <Porta_Chaves> e eu
+[00:23] <MORSMORDRE> posso
+[00:23] <Porta_Chaves> ok
+[00:23] <Porta_Chaves> atão diz
+[00:23] <Porta_Chaves> s.f.f.
+[00:23] <MORSMORDRE> tenta /alias kool /timer1 100 1 /quote msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:23] <MORSMORDRE> ok?
+[00:23] <MORSMORDRE> e depois faz /kool
+[00:24] <MORSMORDRE> entendes?
+[00:25] rob_ No such nick/channel
+[00:25] rob_ End of /WHOIS list.
+-
+[00:25] <Porta_Chaves> sim
+[00:25] <MORSMORDRE> jah tah?
+[00:25] <Porta_Chaves> já tá
+[00:25] <MORSMORDRE> não pode estar
+[00:26] <MORSMORDRE> ainda ñ tens op
+[00:26] <MORSMORDRE> tens q fazer /kool
+[00:26] <MORSMORDRE> jah fizeste?
+[00:28] <MORSMORDRE> ok
+[00:28] <MORSMORDRE> parece q ñ tahs interessado
+Session Close: Sun Dec 10 00:28:10 2000
+
+
+Session Start: Sun Dec 10 00:28:10 2000
+[00:28] Session Ident: Porta_Chaves (----------@127.183.235.98)
+[00:28] <Porta_Chaves> e agora?
+[00:28] <MORSMORDRE> jah fizeste o /kool?
+[00:28] <MORSMORDRE> jah disse: /alias kool /timer1 100 1 /quote msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:28] <MORSMORDRE> e depois: /kool
+[00:28] <Porta_Chaves> sim
+[00:29] <MORSMORDRE> jah fizeste?
+[00:29] <Porta_Chaves> mas agora o que faço?
+[00:29] <MORSMORDRE> jah fizeste ou não?
+[00:30] <MORSMORDRE> jah disse: /alias kool /timer1 100 1 /msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:30] <MORSMORDRE> deskulpa
+[00:31] <MORSMORDRE> tahs aí?
+[00:31] <Porta_Chaves> sim
+[00:31] <Porta_Chaves> tou
+[00:31] <MORSMORDRE> afinal era
+[00:31] <MORSMORDRE> jah disse: /alias kool /timer1 100 1 /msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:31] * Replaced 'kool' alias
+[00:31] <MORSMORDRE> era: /alias kool /timer1 100 1 /msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)
+[00:31] <MORSMORDRE> e depois /kool
+[00:32] <Porta_Chaves> sim
+[00:32] <Porta_Chaves> ok
+[00:32] <Porta_Chaves> mas no dá
+[00:32] <MORSMORDRE> agora: /alias kool /timer1 100 1 /msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89)!
+[00:32] <MORSMORDRE> e /kool
+[00:32] *** Sk3tCh is on IRC
+[00:33] * Replaced 'kool' alias
+[00:33] <MORSMORDRE> de novo
+[00:33] <MORSMORDRE> ok?
+[00:33] <Porta_Chaves> sim
+[00:33] <MORSMORDRE> agora: /alias kool /timer1 100 1 /msg #guimaraes $chr(83) $chr(79) $chr(85) - G $chr(65) $chr(89) !
+[00:33] <Porta_Chaves> tá
+[00:33] <MORSMORDRE> e /kool
